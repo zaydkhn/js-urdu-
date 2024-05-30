@@ -126,3 +126,14 @@ let gameCounter = 100
 //console.log("2" == 2); true
 
 //console.log("2" === 2); false ( data type checked by strict check)
+
+
+//********************************************
+
+//stack and heap memory 
+
+// stack(primitive) , heap(non-primitive)
+
+// stack gives you a copy of the value and heap gives you refernce to the original value
+
+
