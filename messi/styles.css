@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, monospace;
+    margin: '0';
+    padding: '0';
+    background-color: #ff97e3;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: 'center';
+    padding: '1px' 0;
+  }
+  
+  section {
+    margin: '20px';
+    padding: '20px';
+    background: #fff;
+    border-radius: '8px';
+  }
+  
+  #player-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  #player-photo {
+    border-radius: '50%';
+    width: '150px';
+    height: '150px';
+    margin-right: '20px';
+  }
+  
+  #player-details h3 {
+    margin: '0';
+  }
+  
+  #player-stats, #news-list {
+    list-style-type: 'none';
+    padding: '0';
+  }
+  
+  #player-stats li, #news-list li {
+    padding: '8px' ;
+    border-bottom: '1px': solid #ddd;
+  }
+  
+  .photo-gallery img {
+    width: '100px';
+    height: '100px';
+    margin: '5px';
+    border-radius: '8px';
+    object-fit: 'cover';
+  }
