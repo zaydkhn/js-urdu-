@@ -12,7 +12,7 @@
     <title>SnoopDogg</title>
 </head>
 <body>
-    <h1 style="color: rgb(249, 249, 249);background-color: pink;">Formating1</h1>
+    <h1 style="color: rgb(249, 249, 249);background-color: pink;">core part</h1>
     <h2>Formating2</h2>
     <h3>Formating3</h3>
     <p style="background-color: hsla(0, 100%, 50%);color: white;">This is <strong>IMPORTANT</strong> </p>
